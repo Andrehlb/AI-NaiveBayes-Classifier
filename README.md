@@ -21,10 +21,15 @@ Certifique-se de ter a biblioteca scikit-learn instalada em seu ambiente Python.
 python .\naive_bayes.py
 ```
 
-## Java
+### Java
 Certifique-se de ter a biblioteca Weka instalada em seu ambiente Java. Você pode compilar e executar o programa Java usando os seguintes comandos:
 
 ```
 javac NaiveBayes.java
 java NaiveBayes
 ```
+## Contribuição
+Contribuições são sempre bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
+
+## Licença
+Este projeto está licenciado sob a licença MIT.
