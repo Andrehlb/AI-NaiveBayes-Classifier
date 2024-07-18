@@ -4,7 +4,7 @@ Este repositório contém exemplos de implementação de um classificador Naive 
 
 ## Descrição
 
-A Inteligência Artificial (IA) está transformando o mundo ao nosso redor. Este repositório é dedicado a explorar um aspecto fundamental da IA - o aprendizado de máquina. Especificamente, focamos na implementação de um classificador Naive Bayes, um algoritmo de aprendizado de máquina comum, em duas linguagens de programação populares: Python e Java.
+**A Inteligência Artificial (IA)** está transformando o mundo ao nosso redor. Este repositório é dedicado a explorar um aspecto fundamental da IA - o **aprendizado de máquina**. Especificamente, focamos na implementação de um **classificador Naive Bayes**, um **algoritmo** de aprendizado de máquina comum, em duas **linguagens** de programação populares: **Python** e **Java**.
 
 ## Conteúdo
 
