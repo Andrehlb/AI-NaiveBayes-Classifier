@@ -18,7 +18,7 @@ A Inteligência Artificial (IA) está transformando o mundo ao nosso redor. Este
 Certifique-se de ter a biblioteca scikit-learn instalada em seu ambiente Python. Você pode executar o script Python usando o seguinte comando:
 
 ```bash
-python naive_bayes.py
+python .\naive_bayes.py
 ```
 
 ## Java
