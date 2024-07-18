@@ -8,8 +8,8 @@ Este repositório contém exemplos de implementação de um classificador Naive 
 
 ## Conteúdo
 
-- `naive_bayes.py`: Este é um script Python que utiliza a biblioteca scikit-learn para implementar um classificador Naive Bayes no conjunto de dados Iris.
-- `NaiveBayes.java`: Este é um programa Java que utiliza a biblioteca Weka para implementar um classificador Naive Bayes.
+- **`naive_bayes.py`**: Este é um script Python que utiliza a biblioteca scikit-learn para implementar um classificador Naive Bayes no conjunto de dados Iris.
+- **`NaiveBayes.java`**: Este é um programa Java que utiliza a biblioteca Weka para implementar um classificador Naive Bayes.
 
 ## Como usar
 
