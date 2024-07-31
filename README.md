@@ -33,3 +33,9 @@ Contribuições são sempre bem-vindas! Sinta-se à vontade para abrir uma issue
 
 ## Licença
 Este projeto está licenciado sob a licença MIT.
+
+## Fontes:
+
+ Conjunto de dados Iris, que foi introduzido por Ronald Fisher em 1936:
+
+ * A página da [Iris flower data set - Wikipedia](https://en.wikipedia.org/wiki/Iris_flower_data_set) fornece uma visão geral detalhada do conjunto de dados Iris.
