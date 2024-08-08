@@ -7,4 +7,5 @@ from sklearn import metrics
 iris = datasets.load_iris()
 
 #Dividir o conjunto de dados em treinamento e teste
-X_train, X_test
+X_train, X_test, y_train, y_test = train_test_split(iris.data, iris.target, test_size=0.3, random_state=1)
+
